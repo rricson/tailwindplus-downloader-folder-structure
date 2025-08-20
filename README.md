@@ -1,6 +1,6 @@
 # tailwindplus-downloader-folder-structure
 
-Just a simple python script creating a folder structure out of the JSON file produced by https://github.com/richardkmichael/tailwindplus-downloader:
+Just a simple python script creating a folder structure using the json file produced by https://github.com/richardkmichael/tailwindplus-downloader:
 ```json
 {
   "version": "2025-08-20-203209",
